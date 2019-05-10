@@ -6,7 +6,7 @@ import KegList from './KegList';
 function Admin(props){
   return (
     <div>
-      <h2>Admin</h2>
+      <h2>Admin Access</h2>
       <Link to="/newKeg">Add new Keg</Link>
 
       <KegList

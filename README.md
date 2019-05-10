@@ -10,7 +10,10 @@
 ----------
 
 ## Description
-xxxx
+A beer tap room that allows additional kegs to be inputted.
+
+## Component Tree
+![Component-Tree](/images/component-tree.png)
 
 ## Known Bugs
 * No known bugs.
@@ -25,7 +28,7 @@ xxxx
 | xxxx | xxxx | xxxx |
 
 ## Setup and Use
-Software Requirements:
+Software Requirements: Node Package Manager (npm)
 
 * Clone this repository [repo](https://github.com/jaredh123/tap-room-react): "$ git clone https://github.com/jaredh123/tap-room-react".
 * To edit the project, open the project in your preferred text editor.
@@ -35,11 +38,14 @@ Software Requirements:
 * Run the command "$ webpack-dev-serve" to start application.
 
 ## Built With
-* HTML
 * Terminal
 * Atom
 * JavaScript
 * CSS
+* Webpack
+* React
+* JSX
+* Babel
 
 ## Contributors
 
