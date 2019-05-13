@@ -15,17 +15,12 @@ A beer tap room that allows additional kegs to be inputted.
 ## Component Tree
 ![Component-Tree](/images/component-tree.png)
 
-## Known Bugs
-* No known bugs.
-
 ## Specifications
 
 | Behavior | Input | Output |
 |----------|:-----:|:------:|
-| xxxx | xxxx | xxxx |
-| xxxx | xxxx | xxxx |
-| xxxx | xxxx | xxxx |
-| xxxx | xxxx | xxxx |
+| User chooses admin to add kegs | Keg form filled out. "Beer" | List has "Beer" |
+| User tries to order beer from home page | Click sell pint | Error in console despite my efforts |
 
 ## Setup and Use
 Software Requirements: Node Package Manager (npm)
@@ -52,6 +47,9 @@ Software Requirements: Node Package Manager (npm)
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
 | Jared Hanson | [jaredh123](https://github.com/jaredh123) | [jared.hanson12345@gmail.com](mailto:jared.hanson12345@gmail.com) |
+
+## Known Bugs
+* An inability to sell pints.
 
 ## Support and contact details
 
